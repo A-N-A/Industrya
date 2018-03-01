@@ -1,4 +1,6 @@
-<<!DOCTYPE html>
+
+//php code for Fibonacci series
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
